@@ -1,5 +1,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-## Hello, my name is Joel.
+## Hello, my name is Yerijhon.
 Welcome! Feel free to browse some of the projects I've developed myself.
 <br>
 <br>
