@@ -1,7 +1,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 🚀 Portfólio Executivo: Desenvolvimento Orientado a Resultados
+# 🚀 Desenvolvimento Orientado a Resultados
 
-## Resumo Executivo
+## Resumo 
 
 Este portfólio demonstra a capacidade de transformar desafios de negócio em soluções digitais eficazes, utilizando JavaScript, HTML e CSS com foco em performance, usabilidade e resultados mensuráveis. A experiência em Gestão Operacional é aplicada para garantir código limpo, escalável e alinhado aos objetivos do cliente.
 
