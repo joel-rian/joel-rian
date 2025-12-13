@@ -1,57 +1,154 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 🚀 Desenvolvimento Orientado a Resultados
+# 👋 Olá! Sou Yerijhon Rian
 
-## Resumo 
+**Full Stack Developer | Especialista em Automação de Processos**
 
-Este portfólio demonstra a capacidade de transformar desafios de negócio em soluções digitais eficazes, utilizando JavaScript, HTML e CSS com foco em performance, usabilidade e resultados mensuráveis. A experiência em Gestão Operacional é aplicada para garantir código limpo, escalável e alinhado aos objetivos do cliente.
+Transformo requisitos de negócios em soluções digitais eficientes, escaláveis e automatizadas. Sou apaixonado por criar aplicações web robustas que não apenas funcionam, mas que **eliminam tarefas manuais e impulsionam a eficiência operacional**.
 
-## 🎯 Pontos Fortes Identificados
-
-A análise dos repositórios e da atividade recente destaca as seguintes qualidades:
-
-### 1. Consistência e Atividade Recente
-
-*   **Atividade Contínua:** Todos os repositórios listados foram atualizados recentemente (no dia da análise), indicando um alto nível de engajamento e dedicação aos projetos.
-*   **Foco Tecnológico:** O uso predominante de **JavaScript, HTML e CSS** confirma a especialização em desenvolvimento Front-end e a capacidade de construir aplicações robustas sem depender excessivamente de frameworks.
-
-### 2. Diversidade de Projetos e Aplicações
-
-O portfólio abrange diferentes domínios, provando a versatilidade do desenvolvedor:
-
-| Repositório | Foco de Negócio | Habilidade Técnica Implícita |
-| :--- | :--- | :--- |
-| **ConversaoDeMoeda** | Finanças/Criptomoedas | Consumo de **API Assíncrona** e Lógica de Cálculo. |
-| **MinhasFinancas** | Gestão de Dados Pessoais | **Persistência de Dados** (Local Storage) e Otimização de Dados. |
-| **Casa-de-Racoes** | E-commerce/Vendas | **Resultados de Negócio** (Aumento de 30% no lucro/otimização) e Estratégia de Leads. |
-| **Portifolio** | Apresentação Profissional | **JavaScript Puro** para Carrossel, Filtros e UX. |
-| **2PAC** | Conteúdo/Biografia | **Semântica HTML5** e Estrutura de Conteúdo. |
-
-### 3. Qualidade do Código e Organização
-
-*   **Código Puro:** A ênfase em JavaScript, HTML e CSS puro (sem frameworks pesados) demonstra um entendimento fundamental de como a web funciona.
-*   **Organização de Dados:** A estrutura de dados em `const projetos = [...]` (Portifolio) é uma prática limpa para gerenciar o estado da aplicação.
-*   **Foco em UX:** A implementação de transições suaves e lógica de carrossel (Portifolio) mostra uma preocupação ativa com a experiência do usuário final.
-
-## 💡 Feedback 
-
-Joel Rian não é apenas um codificador, mas um **solucionador de problemas** com uma mentalidade de **Gestão Operacional** aplicada ao desenvolvimento. Ele demonstra a capacidade de:
-
-1.  **Gerar Valor Mensurável:** Foco em projetos que impactam diretamente o lucro e a eficiência.
-2.  **Construir Ferramentas Robustas:** Uso de JavaScript para lidar com lógica complexa (API, persistência, cálculo).
-3.  **Manter a Atividade:** Um perfil GitHub ativo e atualizado, refletindo dedicação e paixão pela área.
-
-## 🔗 Acesso Rápido aos Repositórios
-
-*   [Perfil Completo](https://github.com/joel-rian?tab=repositories )
-*   [Portifolio](https://github.com/joel-rian/Portifolio )
-*   [ConversaoDeMoeda](https://github.com/joel-rian/ConversaoDeMoeda )
-*   [MinhasFinancas](https://github.com/joel-rian/MinhasFinancas )
-*   [Casa-de-Racoes](https://github.com/joel-rian/Casa-de-Racoes )
-*   [Leading-Page](https://github.com/joel-rian/Mario-And-Luidi)
-*    [Page-Hamburguer](https://joel-rian.github.io/PAGE.HAMBURGUER/)
 ---
 
+## 💻 Stack Técnico
 
+### Front-End
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Hooks%20%7C%20Context%20API-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### Banco de Dados & Armazenamento
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### DevOps & Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## 🎯 Especialidades
+
+✨ **Desenvolvimento Full Stack** - Criação de aplicações web completas, do frontend responsivo ao backend robusto
+
+🤖 **Automação de Processos (RPA/API)** - Desenvolvimento de scripts e integração com APIs REST para automatizar tarefas de negócios
+
+⚡ **Sites de Alto Desempenho** - Landing Pages e sites otimizados para conversão, velocidade e SEO
+
+🔧 **Manutenção e Otimização** - Refatoração, melhoria de performance e suporte técnico contínuo
+
+---
+
+## 📊 Experiência Profissional
+
+### Full Stack Developer — Freelancer
+**2024 - Presente**
+
+Desenvolvimento de aplicações web integrando front-end e back-end, com foco em automação de processos. Experiência em:
+- Desenvolvimento de plataformas web completas (pedidos, reservas, automação de eventos)
+- Automação de fluxos de trabalho, reduzindo tarefas manuais e aumentando eficiência
+- Implementação de funcionalidades assíncronas e controle de estado avançado
+- Contato direto com clientes para alinhamento de requisitos e entrega de soluções customizadas
+
+### Production Manager — Dilly Sports
+**02/2024 - 07/2025**
+
+Otimização de processos de produção, liderança de equipe e resolução ágil de problemas:
+- Redução de falhas e aceleração de processos de produção
+- Liderança em ambiente de alta demanda, priorizando eficiência e organização
+- Tomada de decisão estratégica alinhada com objetivos de negócio
+
+---
+
+## 🚀 Projetos Destaque
+
+### 🍽️ Plataforma Web para Restaurante
+**Tecnologias:** Node.js, Express.js, MongoDB, JavaScript
+
+Sistema Full Stack para gestão de pedidos, reservas e automação de eventos. A plataforma automatiza o fluxo de pedidos, reduzindo o tempo de atendimento e minimizando erros manuais. Integração com APIs para sincronização de dados em tempo real.
+
+🔗 [Ver Projeto](https://joel-rian.github.io/Restaurante/) | 📝 [Código no GitHub](https://github.com/joel-rian/Restaurante)
+
+---
+
+### 📱 Landing Page com Automação de Leads
+**Tecnologias:** HTML5, CSS3, JavaScript (ES6+)
+
+Landing Page de alta conversão focada em captação de leads. Integração com API para redirecionamento automático de clientes para WhatsApp. Design responsivo e otimizado para conversão, com formulário que automatiza o contato com prospects.
+
+🔗 [Ver Projeto](https://joel-rian.github.io/Mario-And-Luidi/) | 📝 [Código no GitHub](https://github.com/joel-rian/Mario-And-Luidi)
+
+---
+
+### 💰 Aplicação de Gestão Financeira
+**Tecnologias:** React, JavaScript (Assíncrono), Firebase/Local Storage
+
+Aplicação para organização e controle de finanças pessoais com entradas, saídas, histórico completo com datas e descrições. Demonstra domínio de lógica complexa, controle de estado avançado em JavaScript e persistência de dados. Interface intuitiva focada em usabilidade.
+
+🔗 [Ver Projeto](https://joel-rian.github.io/MinhasFinancas/) | 📝 [Código no GitHub](https://github.com/joel-rian/MinhasFinancas)
+
+---
+
+## 🎓 Educação
+
+**Full Stack Development** — DevClub (Em andamento)
+
+---
+
+## 💡 Meus Valores
+
+**Compromisso com cada projeto** - Cada cliente merece atenção total e soluções customizadas que geram impacto real.
+
+**Código limpo e organizado** - Facilita manutenção, escalabilidade e colaboração em equipe.
+
+**Aprendizado contínuo** - Tecnologia evolui rapidamente; estou sempre me atualizando com as melhores práticas.
+
+**Foco em resultados** - O objetivo é gerar valor e eficiência para o negócio do cliente.
+
+**Excelente comunicação** - Trabalho transparente e alinhado com as expectativas do cliente.
+
+---
+
+## 🌍 Conecte-se Comigo
+
+📧 **Email:** [contato.yerijhonrian@gmail.com](mailto:contato.yerijhonrian@gmail.com)
+
+🔗 **Portfolio:** [yerijhonjoelriandev.online](https://yerijhonjoelriandev.online)
+
+💼 **LinkedIn:** [@yerijhon-rian](https://www.linkedin.com/in/yerijhon-rian)
+
+💬 **WhatsApp:** [Clique aqui para conversar](https://wa.me/5574999094232?text=Olá,%20quero%20agendar%20um%20atendimento.)
+
+📍 **Localização:** Brasil (Remote)
+
+---
+
+## 📈 Estatísticas GitHub
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-rian&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joel-rian&show_icons=true&theme=dark&count_private=true)
+
+---
+
+## 🤝 Vamos Trabalhar Juntos?
+
+Se você está procurando um desenvolvedor Full Stack que não apenas escreve código limpo e bem documentado, mas que também pensa estrategicamente sobre como otimizar seus processos e gerar impacto real no seu negócio, **vamos conversar!**
+
+Estou aberto a oportunidades de:
+- Desenvolvimento de aplicações web customizadas
+- Automação de processos de negócios
+- Consultoria técnica e otimização de sistemas
+- Projetos freelancer e parcerias
+
+---
+
+**Obrigado por visitar meu perfil! Que a força esteja com você! 🚀**
 
 
 
